@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![]([https://img.shields.io/badge/Go%20To-my%20personal%20website-yellow/?style=for-the-badge&logo=appveyor](https://img.shields.io/badge/Go%20To-my%20personal%20website-yellow/?style=for-the-badge&logo=appveyor&link=http://beixin.notion.site/))
-
 <!--
 **beixinti/beixinti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
