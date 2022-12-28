@@ -1,4 +1,4 @@
-# 捐赠
+# 联络
 
 [![](https://img.shields.io/badge/-微信-2aae67.svg?style=for-the-badge&logo=wechat&logoColor=white)](https://user-images.githubusercontent.com/95170151/193442385-9aff9459-6589-4786-8b9e-2e7d91389e2d.jpg)
 
