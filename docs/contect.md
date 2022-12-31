@@ -1,5 +1,5 @@
 # Contact
-English | [中文](https://github.com/beixinti/beixinti/blob/main/docs/contact_zhCN.md)
+English | [中文](https://github.com/beixinti/beixinti/blob/main/docs/contact_zh_CN.md)
 
 [![](https://img.shields.io/badge/-Telegram-03A9F4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/beixinti)
 [![](https://img.shields.io/badge/-电邮-F44336.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beixinti@foxmail.com)
