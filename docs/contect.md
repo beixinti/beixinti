@@ -1,7 +1,8 @@
 # Contact
 English | [中文](https://github.com/beixinti/beixinti/blob/main/docs/contact_zh_CN.md)
 
-[![](https://img.shields.io/badge/-Telegram-03A9F4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/beixinti)
+[![](https://img.shields.io/badge/-Telegram-2DA5E1.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/beixinti)
+[![](https://img.shields.io/badge/-Twitter-1D9BF0.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/beixinti)
 [![](https://img.shields.io/badge/-Email-F44336.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beixinti@foxmail.com)
 
 ---
