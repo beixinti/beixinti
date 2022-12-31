@@ -1,6 +1,6 @@
 # 你好！
 
-[![](https://img.shields.io/badge/Notion-个人主页-111111.svg?style=for-the-badge&logo=notion&logoColor=white)](https://beixinti.github.io/beixinti/index.html)
+[![](https://img.shields.io/badge/Notion-公共主页-111111.svg?style=for-the-badge&logo=notion&logoColor=white)](https://beixinti.github.io/beixinti/index.html)
 [![](https://img.shields.io/badge/many.link-社交平台-CF245F.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://many.link/beixinti)
 
 ---
