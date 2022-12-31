@@ -7,7 +7,7 @@
 
 ---
 
-[![](https://img.shields.io/badge/捐赠-微信支付、支付宝、QQ支付、爱发电、PayPal-000000.svg?style=for-the-badge&labelColor=F44336&color=FFCDD2)](https://github.com/beixinti/beixinti/blob/main/docs/donate_zh_CN.md)
+[![](https://img.shields.io/badge/捐赠-微信支付、支付宝、QQ支付、爱发电、PayPal-000000.svg?style=for-the-badge&labelColor=4CAF50&color=C8E6C9)](https://github.com/beixinti/beixinti/blob/main/docs/donate_zh_CN.md)
 [![](https://img.shields.io/badge/联络-微信、QQ、Telegram、电邮-000000.svg?style=for-the-badge&labelColor=2196F3&color=BBDEFB)](https://github.com/beixinti/beixinti/blob/main/docs/contect_zh_CN.md)
 
 > © 2023 Jiahao Fu, All rights reserved.  
