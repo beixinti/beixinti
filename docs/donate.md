@@ -7,6 +7,6 @@
 
 ---
 
-[![](https://img.shields.io/badge/支付宝-天天领红包-D4403F.svg?style=for-the-badge&logo=alipay&logoColor=white)](https://user-images.githubusercontent.com/95170151/210055662-c7029a62-89ec-45ee-96cf-31b989255b02.jpg)
+[![](https://img.shields.io/badge/支付宝-天天领红包-000000.svg?style=for-the-badge&logo=alipay&logoColor=white&labelColor=F44336&color=FFCDD2)](https://user-images.githubusercontent.com/95170151/210055662-c7029a62-89ec-45ee-96cf-31b989255b02.jpg)
 
 > © 2023 Jiahao Fu, All rights reserved.  
