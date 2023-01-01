@@ -9,4 +9,6 @@ English | [中文](https://github.com/beixinti/beixinti/blob/main/docs/contact_z
 
 [![](https://img.shields.io/badge/-WECHAT-4CAF50.svg?style=for-the-badge&logo=wechat&logoColor=white&labelColor=4CAF50&color=C8E6C9)](https://user-images.githubusercontent.com/95170151/193442385-9aff9459-6589-4786-8b9e-2e7d91389e2d.jpg)
 
+E-mail address: beixinti@foxmail.com
+
 > © 2023 Jiahao Fu, All rights reserved.
