@@ -11,4 +11,4 @@ English | [中文](https://github.com/beixinti/beixinti/blob/main/docs/contact_z
 
 E-mail address: beixinti@foxmail.com
 
-> © 2023 Jiahao Fu, All rights reserved.
+> © 2023 J. F. , All rights reserved. 
