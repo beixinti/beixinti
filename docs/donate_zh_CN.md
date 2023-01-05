@@ -8,10 +8,10 @@
 
 ---
 
-[![](https://img.shields.io/badge/-PayPal-142C8E.svg?style=for-the-badge&logo=paypal&logoColor=white&labelColor=3F51B5&color=C5CAE9)](https://paypal.me/beixin)
+[![](https://img.shields.io/badge/支付宝-天天领红包-000000.svg?style=for-the-badge&logo=alipay&logoColor=white&labelColor=F44336&color=FFCDD2)](https://user-images.githubusercontent.com/95170151/210055662-c7029a62-89ec-45ee-96cf-31b989255b02.jpg)
 
 ---
 
-[![](https://img.shields.io/badge/支付宝-天天领红包-000000.svg?style=for-the-badge&logo=alipay&logoColor=white&labelColor=F44336&color=FFCDD2)](https://user-images.githubusercontent.com/95170151/210055662-c7029a62-89ec-45ee-96cf-31b989255b02.jpg)
+[![](https://img.shields.io/badge/-PayPal-142C8E.svg?style=for-the-badge&logo=paypal&logoColor=white&labelColor=3F51B5&color=C5CAE9)](https://paypal.me/beixin)
 
 > © 2023 J. F. , All rights reserved. 
