@@ -10,4 +10,4 @@
 
 [![](https://img.shields.io/badge/-Telegram-03A9F4.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=03A9F4&color=B3E5FC)](https://t.me/beixinti)
 
-> © 2023 Jiahao Fu, All rights reserved.
+> © 2023 J. F. , All rights reserved. 
