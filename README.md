@@ -7,6 +7,7 @@ English | [中文](https://beixin.notion.site/)
 ---
 
 [![](https://img.shields.io/badge/-Telegram-2DA5E1.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=03A9F4&color=B3E5FC)](https://t.me/beixinti)
-[![](https://img.shields.io/badge/-Email-F44336.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F44336&color=FFCDD2)](mailto:beixinti@foxmail.com)
+
+Email address: beixinti@foxmail.com
 
 > © 2023 J. F. , All rights reserved. 
