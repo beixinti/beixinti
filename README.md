@@ -1,5 +1,3 @@
-# Hi there :)
-
 English | [中文](https://beixin.notion.site/)
 
 [![](https://img.shields.io/badge/-PayPal-142C8E.svg?style=for-the-badge&logo=paypal&logoColor=white&labelColor=3F51B5&color=C5CAE9)](https://paypal.me/beixin)
