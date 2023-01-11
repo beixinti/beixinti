@@ -10,4 +10,4 @@ English | [中文](https://beixin.notion.site/)
 
 Email address: beixinti@foxmail.com
 
-> © 2023 J. F. , All rights reserved. 
+> © 2023 J. F.
